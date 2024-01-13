@@ -5,7 +5,7 @@
 
 Демонстрация работы приложения:
 
+https://github.com/MAXBAF1/Business-Volchonok/assets/63009846/347a4ff3-c1c9-47a8-94f5-8446fc9ce08b
 
-https://github.com/MAXBAF1/Business-Volchonok-Demonstration/assets/63009846/8b27f963-d365-454a-96d2-e15d823d419e
 
 
